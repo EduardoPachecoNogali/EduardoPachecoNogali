@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/EduardoPachecoNogali">
-  <img src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=dark&hide_border=true&short_numbers=true"/>
   </a>
 </div>
 
