@@ -51,7 +51,7 @@
 ## 🌐 Connect with Me
 
 <div> 
-  <a href="[YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/eduardo-pacheco-666193335/)" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-pacheco-666193335/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
