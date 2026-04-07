@@ -33,8 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/EduardoPachecoNogali">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoPachecoNogali&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EduardoPachecoNogali&layout=compact&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=tokyonight"/>
   </a>
 </div>
 
