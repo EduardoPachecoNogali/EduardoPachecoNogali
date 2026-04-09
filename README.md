@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=dark&hide_border=true&short_numbers=true"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" /></a>
 
 </div>
 
