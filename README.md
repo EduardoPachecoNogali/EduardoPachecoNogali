@@ -7,7 +7,7 @@
 
 ---
 
-<div>
+<div align="center">
 
 ## 🧠 About Me
 
@@ -24,17 +24,25 @@
 
 ## 🚀 Tech Stack
 
-<img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-
+<p align="center">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+</p>
 
 </div>
 
 ---
 
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=dark&hide_border=true&short_numbers=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak" />
+</a>
 
 </div>
 
