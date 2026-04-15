@@ -20,7 +20,7 @@
 
 ---
 
-
+<div align="center">
 
 ## 🚀 Tech Stack
 
