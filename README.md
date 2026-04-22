@@ -2,8 +2,6 @@
 
 # Eduardo Pacheco
 
-### Full Stack Developer in Evolution
-
 *Transforming problems into solutions — one commit at a time.*
 
 </div>
