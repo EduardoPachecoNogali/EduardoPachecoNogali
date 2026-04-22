@@ -11,7 +11,6 @@
 
 ## 🧠 About Me
 
-🎓 Systems Analysis and Development  
 💡 Passionate about solving problems with code  
 ⚡ Always learning something new  
 🛠️ Focused on Full Stack Development  
