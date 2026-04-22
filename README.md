@@ -4,7 +4,7 @@
 
 ### Full Stack Developer in Evolution
 
-*Transforming problems into elegant solutions — one commit at a time.*
+*Transforming problems into solutions — one commit at a time.*
 
 </div>
 
@@ -26,7 +26,7 @@ const eduardo = {
 ```
 
 - 🔍 Passionate about solving real problems with clean code
-- ⚙️ Focused on building scalable, functional applications
+- ⚙️ Focused on building scalable, functional Full Stack applications
 - 🤖 Special interest in automation, bots and API integrations
 
 ---
@@ -37,19 +37,38 @@ const eduardo = {
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" title="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" title="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" title="Node.js" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" title="Next.js" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" title="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" title="HTML5" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" title="CSS3" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" /><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" /><br/>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" /><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" /><br/>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" /><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" /><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" /><br/>
+      <sub>CSS3</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -80,7 +99,9 @@ const eduardo = {
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| Upcoming...
+| 🤖 **AutoBot** | Intelligent automation bot for repetitive workflows | Node.js · TypeScript | `In Progress` |
+| 🔗 **APIBridge** | Middleware layer for seamless third-party API integrations | Next.js · Python | `Planning` |
+| ⚡ **TaskFlow** | Productivity tool with real-time task automation | TypeScript · Node.js | `Planning` |
 
 ---
 
