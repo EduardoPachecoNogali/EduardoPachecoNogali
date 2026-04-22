@@ -71,17 +71,17 @@ const eduardo = {
 ## 📊 GitHub Stats
 
 <br/>
-
 <img
-  src="https://streak-stats.demolab.com?user=eduardopacheco&theme=dark&hide_border=true&width=500&exclude_days=Sun%2CSat"
-  alt="GitHub Streak Stats"
+src="https://streak-stats.demolab.com?user=EduardoPachecoNogali&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&width=500"
+alt="GitHub Streak Stats"
 />
-
+<br/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=EduardoPachecoNogali&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&width=500"
+alt="Eduardo's GitHub Stats"
+width="500"
+/>
 </div>
-
----
-
-<div align="center">
 
 ## 🧩 Featured Projects
 
