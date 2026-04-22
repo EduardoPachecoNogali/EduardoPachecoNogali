@@ -26,8 +26,7 @@ const eduardo = {
 ```
 
 - 🔍 Passionate about solving real problems with clean code
-- 📚 Always learning something new — every day counts
-- ⚙️ Focused on building scalable, functional Full Stack applications
+- ⚙️ Focused on building scalable, functional applications
 - 🤖 Special interest in automation, bots and API integrations
 
 ---
